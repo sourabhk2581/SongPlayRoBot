@@ -2,7 +2,7 @@
 
 [Video](https://youtu.be/3pN0W4KzzNY) 🎥
 
-Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
+Repo : [SongProBot 🎻](https://GitHub.Com/toxic329/SongPlayRoBot)
 
 Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
 
@@ -16,15 +16,15 @@ Demo : [SongProBot  🎻](https://t.me/SongProBot) 💃🏻
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/TOXIC_BOT1971/SongPlayRoBot.git)
+[![Deploy](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)](https://heroku.com/deploy?template=https://github.com/toxic329/SongPlayRoBot.git)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC_BOT1971/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/toxic329/SongPlayRoBot.git)
 
 ## Group
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/TOXIC_BOT1971) 😪
+Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/toxic329) 😪
 
 
 
